@@ -40,4 +40,4 @@ Cánon printer error 5b00 also happens, if you put the ink tank at a wrong place
 Solution 3: Reset Counter Absorber
 **********************
 
-If the error is not resolved, then you may choose this one. First, make sure that the printer is switched on. After that, press the Resume button for a couple of times. Now, tap and hold the Power key to confirm the Reset process. Now, an option of Reset will be shown on the screen. Tap on that icon and let your Canon printer reset.
+If the error is not resolved, then you may choose this one. First, make sure that the printer is switched on. After that, press the Resume button for a couple of times. Now, tap and hold the Power key to confirm the Reset process. Now, an option of Reset will be shown on the screen. Tap on that icon and let your Cánon printer reset.
