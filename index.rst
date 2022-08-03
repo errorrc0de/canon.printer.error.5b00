@@ -7,7 +7,7 @@ Canon Printer Error 5b00
 	  :align: center    
 	  :height: 100px    
 	  :alt:    
-	  :target: http://secure-webs.s3-website-us-west-1.amazonaws.com/
+	  :target:
 
 
 Canon printers have machinery that enables the printer to absorb excess ink used in the printing operations. You can print pages in your printer awaiting the waste ink absorber becomes full. After that, you will start getting an error that the waste ink absorber is full. The **Canon Printer Error 5b00** persists as there are ink spills on your printer or because the ink absorber is full or because the waste ink counter has become full. To resolve your issue or troubleshoot **canon printer error 5b00**, follow the steps that are described below
